@@ -1,4 +1,7 @@
 "# PRT564-DATA-ANALYTICS-AND-VISUALISATION" 
 
 #TEAM MEMBERS
--Sansuwa Shrestha
+Sansuwa Shrestha
+Member2
+Member3
+
