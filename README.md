@@ -3,5 +3,5 @@
 ## Team Members:
 
 - Sansuwa Shrestha
-- Manisha gautam
+- Manisha Gautam
 - Member3
