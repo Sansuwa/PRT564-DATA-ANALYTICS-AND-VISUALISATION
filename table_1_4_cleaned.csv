@@ -1,0 +1,331 @@
+Cause,Age_Group,Year,Deaths
+Certain conditions originating in the perinatal period (P00-P96),Under 1 year,2015,542.0
+"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",Under 1 year,2015,224.0
+"Symptoms, signs and ill-defined conditions (R00-R99)",Under 1 year,2015,89.0
+"Land transport accidents (V01-V89, Y85)",1–14 years,2015,54.0
+"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",1–14 years,2015,35.0
+Malignant neoplasm of brain (C71),1–14 years,2015,28.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",15–24 years,2015,398.0
+"Land transport accidents (V01-V89, Y85)",15–24 years,2015,235.0
+Accidental poisoning (X40-X49),15–24 years,2015,49.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",25–34 years,2015,546.0
+Accidental poisoning (X40-X49),25–34 years,2015,241.0
+"Land transport accidents (V01-V89, Y85)",25–34 years,2015,239.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",35–44 years,2015,609.0
+Accidental poisoning (X40-X49),35–44 years,2015,436.0
+Ischaemic heart diseases (I20-I25),35–44 years,2015,234.0
+Ischaemic heart diseases (I20-I25),45–54 years,2015,771.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",45–54 years,2015,666.0
+Accidental poisoning (X40-X49),45–54 years,2015,326.0
+Ischaemic heart diseases (I20-I25),55–64 years,2015,1481.0
+"Malignant neoplasm of trachea, bronchus and lung (C33, C34)",55–64 years,2015,1449.0
+Chronic lower respiratory diseases (J40-J47),55–64 years,2015,523.0
+"Malignant neoplasm of trachea, bronchus and lung (C33, C34)",65–74 years,2015,2615.0
+Ischaemic heart diseases (I20-I25),65–74 years,2015,2642.0
+Chronic lower respiratory diseases (J40-J47),65–74 years,2015,1632.0
+"Dementia, including Alzheimer's disease (F01, F03, G30)",75–84 years,2015,3097.0
+Ischaemic heart diseases (I20-I25),75–84 years,2015,4795.0
+Chronic lower respiratory diseases (J40-J47),75–84 years,2015,2637.0
+"Dementia, including Alzheimer's disease (F01, F03, G30)",85–94 years,2015,7122.0
+Ischaemic heart diseases (I20-I25),85–94 years,2015,8095.0
+Cerebrovascular diseases (I60-I69),85–94 years,2015,5171.0
+"Dementia, including Alzheimer's disease (F01, F03, G30)",95 years and over,2015,1737.0
+Ischaemic heart diseases (I20-I25),95 years and over,2015,1852.0
+Cerebrovascular diseases (I60-I69),95 years and over,2015,1130.0
+Certain conditions originating in the perinatal period (P00-P96),Under 1 year,2016,547.0
+"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",Under 1 year,2016,224.0
+"Symptoms, signs and ill-defined conditions (R00-R99)",Under 1 year,2016,80.0
+"Land transport accidents (V01-V89, Y85)",1–14 years,2016,45.0
+"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",1–14 years,2016,39.0
+Malignant neoplasm of brain (C71),1–14 years,2016,39.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",15–24 years,2016,410.0
+"Land transport accidents (V01-V89, Y85)",15–24 years,2016,266.0
+Accidental poisoning (X40-X49),15–24 years,2016,74.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",25–34 years,2016,584.0
+Accidental poisoning (X40-X49),25–34 years,2016,264.0
+"Land transport accidents (V01-V89, Y85)",25–34 years,2016,240.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",35–44 years,2016,552.0
+Accidental poisoning (X40-X49),35–44 years,2016,472.0
+Ischaemic heart diseases (I20-I25),35–44 years,2016,227.0
+Ischaemic heart diseases (I20-I25),45–54 years,2016,694.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",45–54 years,2016,523.0
+Accidental poisoning (X40-X49),45–54 years,2016,384.0
+Ischaemic heart diseases (I20-I25),55–64 years,2016,1494.0
+"Malignant neoplasm of trachea, bronchus and lung (C33, C34)",55–64 years,2016,1412.0
+Chronic lower respiratory diseases (J40-J47),55–64 years,2016,567.0
+"Malignant neoplasm of trachea, bronchus and lung (C33, C34)",65–74 years,2016,2609.0
+Ischaemic heart diseases (I20-I25),65–74 years,2016,2565.0
+Chronic lower respiratory diseases (J40-J47),65–74 years,2016,1605.0
+"Dementia, including Alzheimer's disease (F01, F03, G30)",75–84 years,2016,3278.0
+Ischaemic heart diseases (I20-I25),75–84 years,2016,4623.0
+Chronic lower respiratory diseases (J40-J47),75–84 years,2016,2620.0
+"Dementia, including Alzheimer's disease (F01, F03, G30)",85–94 years,2016,7456.0
+Ischaemic heart diseases (I20-I25),85–94 years,2016,7804.0
+Cerebrovascular diseases (I60-I69),85–94 years,2016,4759.0
+"Dementia, including Alzheimer's disease (F01, F03, G30)",95 years and over,2016,1912.0
+Ischaemic heart diseases (I20-I25),95 years and over,2016,1889.0
+Cerebrovascular diseases (I60-I69),95 years and over,2016,1089.0
+Certain conditions originating in the perinatal period (P00-P96),Under 1 year,2017,580.0
+"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",Under 1 year,2017,254.0
+"Symptoms, signs and ill-defined conditions (R00-R99)",Under 1 year,2017,78.0
+"Land transport accidents (V01-V89, Y85)",1–14 years,2017,53.0
+"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",1–14 years,2017,38.0
+Malignant neoplasm of brain (C71),1–14 years,2017,39.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",15–24 years,2017,418.0
+"Land transport accidents (V01-V89, Y85)",15–24 years,2017,248.0
+Accidental poisoning (X40-X49),15–24 years,2017,59.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",25–34 years,2017,620.0
+Accidental poisoning (X40-X49),25–34 years,2017,281.0
+"Land transport accidents (V01-V89, Y85)",25–34 years,2017,197.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",35–44 years,2017,628.0
+Accidental poisoning (X40-X49),35–44 years,2017,467.0
+Ischaemic heart diseases (I20-I25),35–44 years,2017,215.0
+Ischaemic heart diseases (I20-I25),45–54 years,2017,729.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",45–54 years,2017,624.0
+Accidental poisoning (X40-X49),45–54 years,2017,417.0
+Ischaemic heart diseases (I20-I25),55–64 years,2017,1464.0
+"Malignant neoplasm of trachea, bronchus and lung (C33, C34)",55–64 years,2017,1378.0
+Chronic lower respiratory diseases (J40-J47),55–64 years,2017,627.0
+"Malignant neoplasm of trachea, bronchus and lung (C33, C34)",65–74 years,2017,2672.0
+Ischaemic heart diseases (I20-I25),65–74 years,2017,2671.0
+Chronic lower respiratory diseases (J40-J47),65–74 years,2017,1716.0
+"Dementia, including Alzheimer's disease (F01, F03, G30)",75–84 years,2017,3347.0
+Ischaemic heart diseases (I20-I25),75–84 years,2017,4576.0
+Chronic lower respiratory diseases (J40-J47),75–84 years,2017,2848.0
+"Dementia, including Alzheimer's disease (F01, F03, G30)",85–94 years,2017,7769.0
+Ischaemic heart diseases (I20-I25),85–94 years,2017,7401.0
+Cerebrovascular diseases (I60-I69),85–94 years,2017,4589.0
+"Dementia, including Alzheimer's disease (F01, F03, G30)",95 years and over,2017,2083.0
+Ischaemic heart diseases (I20-I25),95 years and over,2017,1940.0
+Cerebrovascular diseases (I60-I69),95 years and over,2017,1155.0
+Certain conditions originating in the perinatal period (P00-P96),Under 1 year,2018,539.0
+"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",Under 1 year,2018,263.0
+"Symptoms, signs and ill-defined conditions (R00-R99)",Under 1 year,2018,82.0
+"Land transport accidents (V01-V89, Y85)",1–14 years,2018,44.0
+"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",1–14 years,2018,28.0
+Malignant neoplasm of brain (C71),1–14 years,2018,33.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",15–24 years,2018,450.0
+"Land transport accidents (V01-V89, Y85)",15–24 years,2018,231.0
+Accidental poisoning (X40-X49),15–24 years,2018,82.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",25–34 years,2018,565.0
+Accidental poisoning (X40-X49),25–34 years,2018,255.0
+"Land transport accidents (V01-V89, Y85)",25–34 years,2018,202.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",35–44 years,2018,588.0
+Accidental poisoning (X40-X49),35–44 years,2018,466.0
+Ischaemic heart diseases (I20-I25),35–44 years,2018,206.0
+Ischaemic heart diseases (I20-I25),45–54 years,2018,708.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",45–54 years,2018,599.0
+Accidental poisoning (X40-X49),45–54 years,2018,430.0
+Ischaemic heart diseases (I20-I25),55–64 years,2018,1515.0
+"Malignant neoplasm of trachea, bronchus and lung (C33, C34)",55–64 years,2018,1469.0
+Chronic lower respiratory diseases (J40-J47),55–64 years,2018,610.0
+"Malignant neoplasm of trachea, bronchus and lung (C33, C34)",65–74 years,2018,2799.0
+Ischaemic heart diseases (I20-I25),65–74 years,2018,2549.0
+Chronic lower respiratory diseases (J40-J47),65–74 years,2018,1709.0
+"Dementia, including Alzheimer's disease (F01, F03, G30)",75–84 years,2018,3426.0
+Ischaemic heart diseases (I20-I25),75–84 years,2018,4330.0
+Chronic lower respiratory diseases (J40-J47),75–84 years,2018,2619.0
+"Dementia, including Alzheimer's disease (F01, F03, G30)",85–94 years,2018,7854.0
+Ischaemic heart diseases (I20-I25),85–94 years,2018,6953.0
+Cerebrovascular diseases (I60-I69),85–94 years,2018,4390.0
+"Dementia, including Alzheimer's disease (F01, F03, G30)",95 years and over,2018,2171.0
+Ischaemic heart diseases (I20-I25),95 years and over,2018,1780.0
+Cerebrovascular diseases (I60-I69),95 years and over,2018,1103.0
+Certain conditions originating in the perinatal period (P00-P96),Under 1 year,2019,524.0
+"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",Under 1 year,2019,265.0
+"Symptoms, signs and ill-defined conditions (R00-R99)",Under 1 year,2019,110.0
+"Land transport accidents (V01-V89, Y85)",1–14 years,2019,57.0
+"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",1–14 years,2019,50.0
+Malignant neoplasm of brain (C71),1–14 years,2019,32.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",15–24 years,2019,466.0
+"Land transport accidents (V01-V89, Y85)",15–24 years,2019,246.0
+Accidental poisoning (X40-X49),15–24 years,2019,90.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",25–34 years,2019,620.0
+Accidental poisoning (X40-X49),25–34 years,2019,249.0
+"Land transport accidents (V01-V89, Y85)",25–34 years,2019,198.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",35–44 years,2019,650.0
+Accidental poisoning (X40-X49),35–44 years,2019,427.0
+Ischaemic heart diseases (I20-I25),35–44 years,2019,197.0
+Ischaemic heart diseases (I20-I25),45–54 years,2019,699.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",45–54 years,2019,609.0
+Accidental poisoning (X40-X49),45–54 years,2019,403.0
+Ischaemic heart diseases (I20-I25),55–64 years,2019,1571.0
+"Malignant neoplasm of trachea, bronchus and lung (C33, C34)",55–64 years,2019,1486.0
+Chronic lower respiratory diseases (J40-J47),55–64 years,2019,648.0
+"Malignant neoplasm of trachea, bronchus and lung (C33, C34)",65–74 years,2019,2657.0
+Ischaemic heart diseases (I20-I25),65–74 years,2019,2605.0
+Chronic lower respiratory diseases (J40-J47),65–74 years,2019,1757.0
+"Dementia, including Alzheimer's disease (F01, F03, G30)",75–84 years,2019,3609.0
+Ischaemic heart diseases (I20-I25),75–84 years,2019,4358.0
+Chronic lower respiratory diseases (J40-J47),75–84 years,2019,2772.0
+"Dementia, including Alzheimer's disease (F01, F03, G30)",85–94 years,2019,8237.0
+Ischaemic heart diseases (I20-I25),85–94 years,2019,6602.0
+Cerebrovascular diseases (I60-I69),85–94 years,2019,4261.0
+"Dementia, including Alzheimer's disease (F01, F03, G30)",95 years and over,2019,2454.0
+Ischaemic heart diseases (I20-I25),95 years and over,2019,1920.0
+Cerebrovascular diseases (I60-I69),95 years and over,2019,1173.0
+Certain conditions originating in the perinatal period (P00-P96),Under 1 year,2020,499.0
+"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",Under 1 year,2020,270.0
+"Symptoms, signs and ill-defined conditions (R00-R99)",Under 1 year,2020,79.0
+"Land transport accidents (V01-V89, Y85)",1–14 years,2020,50.0
+"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",1–14 years,2020,33.0
+Malignant neoplasm of brain (C71),1–14 years,2020,34.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",15–24 years,2020,458.0
+"Land transport accidents (V01-V89, Y85)",15–24 years,2020,216.0
+Accidental poisoning (X40-X49),15–24 years,2020,94.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",25–34 years,2020,598.0
+Accidental poisoning (X40-X49),25–34 years,2020,267.0
+"Land transport accidents (V01-V89, Y85)",25–34 years,2020,241.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",35–44 years,2020,575.0
+Accidental poisoning (X40-X49),35–44 years,2020,425.0
+Ischaemic heart diseases (I20-I25),35–44 years,2020,209.0
+Ischaemic heart diseases (I20-I25),45–54 years,2020,713.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",45–54 years,2020,551.0
+Accidental poisoning (X40-X49),45–54 years,2020,430.0
+Ischaemic heart diseases (I20-I25),55–64 years,2020,1479.0
+"Malignant neoplasm of trachea, bronchus and lung (C33, C34)",55–64 years,2020,1366.0
+Chronic lower respiratory diseases (J40-J47),55–64 years,2020,584.0
+"Malignant neoplasm of trachea, bronchus and lung (C33, C34)",65–74 years,2020,2611.0
+Ischaemic heart diseases (I20-I25),65–74 years,2020,2469.0
+Chronic lower respiratory diseases (J40-J47),65–74 years,2020,1540.0
+"Dementia, including Alzheimer's disease (F01, F03, G30)",75–84 years,2020,3581.0
+Ischaemic heart diseases (I20-I25),75–84 years,2020,3998.0
+Chronic lower respiratory diseases (J40-J47),75–84 years,2020,2407.0
+"Dementia, including Alzheimer's disease (F01, F03, G30)",85–94 years,2020,7972.0
+Ischaemic heart diseases (I20-I25),85–94 years,2020,6124.0
+Cerebrovascular diseases (I60-I69),85–94 years,2020,4044.0
+"Dementia, including Alzheimer's disease (F01, F03, G30)",95 years and over,2020,2408.0
+Ischaemic heart diseases (I20-I25),95 years and over,2020,1795.0
+Cerebrovascular diseases (I60-I69),95 years and over,2020,1145.0
+Certain conditions originating in the perinatal period (P00-P96),Under 1 year,2021,531.0
+"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",Under 1 year,2021,270.0
+"Symptoms, signs and ill-defined conditions (R00-R99)",Under 1 year,2021,87.0
+"Land transport accidents (V01-V89, Y85)",1–14 years,2021,56.0
+"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",1–14 years,2021,39.0
+Malignant neoplasm of brain (C71),1–14 years,2021,32.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",15–24 years,2021,414.0
+"Land transport accidents (V01-V89, Y85)",15–24 years,2021,231.0
+Accidental poisoning (X40-X49),15–24 years,2021,68.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",25–34 years,2021,587.0
+Accidental poisoning (X40-X49),25–34 years,2021,237.0
+"Land transport accidents (V01-V89, Y85)",25–34 years,2021,210.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",35–44 years,2021,576.0
+Accidental poisoning (X40-X49),35–44 years,2021,382.0
+Ischaemic heart diseases (I20-I25),35–44 years,2021,198.0
+Ischaemic heart diseases (I20-I25),45–54 years,2021,728.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",45–54 years,2021,560.0
+Accidental poisoning (X40-X49),45–54 years,2021,422.0
+Ischaemic heart diseases (I20-I25),55–64 years,2021,1491.0
+"Malignant neoplasm of trachea, bronchus and lung (C33, C34)",55–64 years,2021,1426.0
+Chronic lower respiratory diseases (J40-J47),55–64 years,2021,613.0
+"Malignant neoplasm of trachea, bronchus and lung (C33, C34)",65–74 years,2021,2686.0
+Ischaemic heart diseases (I20-I25),65–74 years,2021,2579.0
+Chronic lower respiratory diseases (J40-J47),65–74 years,2021,1598.0
+"Dementia, including Alzheimer's disease (F01, F03, G30)",75–84 years,2021,3885.0
+Ischaemic heart diseases (I20-I25),75–84 years,2021,4157.0
+Chronic lower respiratory diseases (J40-J47),75–84 years,2021,2745.0
+"Dementia, including Alzheimer's disease (F01, F03, G30)",85–94 years,2021,8471.0
+Ischaemic heart diseases (I20-I25),85–94 years,2021,6241.0
+Cerebrovascular diseases (I60-I69),85–94 years,2021,4099.0
+"Dementia, including Alzheimer's disease (F01, F03, G30)",95 years and over,2021,2749.0
+Ischaemic heart diseases (I20-I25),95 years and over,2021,2046.0
+Cerebrovascular diseases (I60-I69),95 years and over,2021,1234.0
+Certain conditions originating in the perinatal period (P00-P96),Under 1 year,2022,516.0
+"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",Under 1 year,2022,249.0
+"Symptoms, signs and ill-defined conditions (R00-R99)",Under 1 year,2022,88.0
+"Land transport accidents (V01-V89, Y85)",1–14 years,2022,44.0
+"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",1–14 years,2022,39.0
+Malignant neoplasm of brain (C71),1–14 years,2022,32.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",15–24 years,2022,374.0
+"Land transport accidents (V01-V89, Y85)",15–24 years,2022,235.0
+Accidental poisoning (X40-X49),15–24 years,2022,91.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",25–34 years,2022,619.0
+Accidental poisoning (X40-X49),25–34 years,2022,229.0
+"Land transport accidents (V01-V89, Y85)",25–34 years,2022,218.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",35–44 years,2022,611.0
+Accidental poisoning (X40-X49),35–44 years,2022,377.0
+Ischaemic heart diseases (I20-I25),35–44 years,2022,248.0
+Ischaemic heart diseases (I20-I25),45–54 years,2022,753.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",45–54 years,2022,654.0
+Accidental poisoning (X40-X49),45–54 years,2022,427.0
+Ischaemic heart diseases (I20-I25),55–64 years,2022,1669.0
+"Malignant neoplasm of trachea, bronchus and lung (C33, C34)",55–64 years,2022,1398.0
+Chronic lower respiratory diseases (J40-J47),55–64 years,2022,708.0
+"Malignant neoplasm of trachea, bronchus and lung (C33, C34)",65–74 years,2022,2684.0
+Ischaemic heart diseases (I20-I25),65–74 years,2022,2826.0
+Chronic lower respiratory diseases (J40-J47),65–74 years,2022,1752.0
+"Dementia, including Alzheimer's disease (F01, F03, G30)",75–84 years,2022,4312.0
+Ischaemic heart diseases (I20-I25),75–84 years,2022,4568.0
+Chronic lower respiratory diseases (J40-J47),75–84 years,2022,3034.0
+"Dementia, including Alzheimer's disease (F01, F03, G30)",85–94 years,2022,8913.0
+Ischaemic heart diseases (I20-I25),85–94 years,2022,6637.0
+Cerebrovascular diseases (I60-I69),85–94 years,2022,4034.0
+"Dementia, including Alzheimer's disease (F01, F03, G30)",95 years and over,2022,2964.0
+Ischaemic heart diseases (I20-I25),95 years and over,2022,2066.0
+Cerebrovascular diseases (I60-I69),95 years and over,2022,1223.0
+Certain conditions originating in the perinatal period (P00-P96),Under 1 year,2023,520.0
+"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",Under 1 year,2023,214.0
+"Symptoms, signs and ill-defined conditions (R00-R99)",Under 1 year,2023,86.0
+"Land transport accidents (V01-V89, Y85)",1–14 years,2023,54.0
+"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",1–14 years,2023,38.0
+Malignant neoplasm of brain (C71),1–14 years,2023,36.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",15–24 years,2023,375.0
+"Land transport accidents (V01-V89, Y85)",15–24 years,2023,245.0
+Accidental poisoning (X40-X49),15–24 years,2023,65.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",25–34 years,2023,607.0
+Accidental poisoning (X40-X49),25–34 years,2023,198.0
+"Land transport accidents (V01-V89, Y85)",25–34 years,2023,235.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",35–44 years,2023,603.0
+Accidental poisoning (X40-X49),35–44 years,2023,350.0
+Ischaemic heart diseases (I20-I25),35–44 years,2023,180.0
+Ischaemic heart diseases (I20-I25),45–54 years,2023,684.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",45–54 years,2023,605.0
+Accidental poisoning (X40-X49),45–54 years,2023,407.0
+Ischaemic heart diseases (I20-I25),55–64 years,2023,1575.0
+"Malignant neoplasm of trachea, bronchus and lung (C33, C34)",55–64 years,2023,1330.0
+Chronic lower respiratory diseases (J40-J47),55–64 years,2023,669.0
+"Malignant neoplasm of trachea, bronchus and lung (C33, C34)",65–74 years,2023,2698.0
+Ischaemic heart diseases (I20-I25),65–74 years,2023,2655.0
+Chronic lower respiratory diseases (J40-J47),65–74 years,2023,1794.0
+"Dementia, including Alzheimer's disease (F01, F03, G30)",75–84 years,2023,4429.0
+Ischaemic heart diseases (I20-I25),75–84 years,2023,4305.0
+Chronic lower respiratory diseases (J40-J47),75–84 years,2023,2910.0
+"Dementia, including Alzheimer's disease (F01, F03, G30)",85–94 years,2023,8622.0
+Ischaemic heart diseases (I20-I25),85–94 years,2023,5776.0
+Cerebrovascular diseases (I60-I69),85–94 years,2023,3717.0
+"Dementia, including Alzheimer's disease (F01, F03, G30)",95 years and over,2023,2748.0
+Ischaemic heart diseases (I20-I25),95 years and over,2023,1833.0
+Cerebrovascular diseases (I60-I69),95 years and over,2023,1104.0
+Certain conditions originating in the perinatal period (P00-P96),Under 1 year,2024,558.0
+"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",Under 1 year,2024,210.0
+"Symptoms, signs and ill-defined conditions (R00-R99)",Under 1 year,2024,93.0
+"Land transport accidents (V01-V89, Y85)",1–14 years,2024,48.0
+"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",1–14 years,2024,38.0
+Malignant neoplasm of brain (C71),1–14 years,2024,36.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",15–24 years,2024,317.0
+"Land transport accidents (V01-V89, Y85)",15–24 years,2024,259.0
+Accidental poisoning (X40-X49),15–24 years,2024,76.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",25–34 years,2024,602.0
+Accidental poisoning (X40-X49),25–34 years,2024,258.0
+"Land transport accidents (V01-V89, Y85)",25–34 years,2024,229.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",35–44 years,2024,644.0
+Accidental poisoning (X40-X49),35–44 years,2024,384.0
+Ischaemic heart diseases (I20-I25),35–44 years,2024,186.0
+Ischaemic heart diseases (I20-I25),45–54 years,2024,678.0
+"Intentional self-harm [suicide] (X60-X84, Y87.0)",45–54 years,2024,623.0
+Accidental poisoning (X40-X49),45–54 years,2024,433.0
+Ischaemic heart diseases (I20-I25),55–64 years,2024,1597.0
+"Malignant neoplasm of trachea, bronchus and lung (C33, C34)",55–64 years,2024,1306.0
+Chronic lower respiratory diseases (J40-J47),55–64 years,2024,721.0
+"Malignant neoplasm of trachea, bronchus and lung (C33, C34)",65–74 years,2024,2796.0
+Ischaemic heart diseases (I20-I25),65–74 years,2024,2518.0
+Chronic lower respiratory diseases (J40-J47),65–74 years,2024,2002.0
+"Dementia, including Alzheimer's disease (F01, F03, G30)",75–84 years,2024,4547.0
+Ischaemic heart diseases (I20-I25),75–84 years,2024,4032.0
+Chronic lower respiratory diseases (J40-J47),75–84 years,2024,3228.0
+"Dementia, including Alzheimer's disease (F01, F03, G30)",85–94 years,2024,9069.0
+Ischaemic heart diseases (I20-I25),85–94 years,2024,5398.0
+Cerebrovascular diseases (I60-I69),85–94 years,2024,3583.0
+"Dementia, including Alzheimer's disease (F01, F03, G30)",95 years and over,2024,3004.0
+Ischaemic heart diseases (I20-I25),95 years and over,2024,1817.0
+Cerebrovascular diseases (I60-I69),95 years and over,2024,1045.0

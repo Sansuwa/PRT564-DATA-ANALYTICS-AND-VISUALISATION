@@ -63,5 +63,5 @@ df = df[[
 # STEP 11 — Save
 df.to_csv("table_1_3_cleaned.csv", index=False)
 
-print("✅ Table 1.3 cleaned successfully!")
+print("Table 1.3 cleaned successfully!")
 print(df.head())

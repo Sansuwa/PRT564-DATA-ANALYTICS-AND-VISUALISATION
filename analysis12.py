@@ -48,7 +48,7 @@ df = df.dropna(thresh=5)
 # STEP 10 — SAVE WIDE FORMAT
 df.to_csv("table_1_2_wide.csv", index=False)
 
-print("✅ Wide format saved")
+print("Wide format saved")
 
 # ---------------------------------------------------
 # 🔥 STEP 11 — CONVERT TO LONG FORMAT (IMPORTANT)
@@ -74,4 +74,4 @@ df_long = df_long.dropna()
 # SAVE LONG FORMAT
 df_long.to_csv("table_1_2_long.csv", index=False)
 
-print("✅ Long format saved")
+print("Long format saved")

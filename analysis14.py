@@ -60,5 +60,5 @@ df_long = df_long.dropna()
 # STEP 12 — Save
 df_long.to_csv("table_1_4_cleaned.csv", index=False)
 
-print("✅ Table 1.4 cleaned successfully!")
+print("Table 1.4 cleaned successfully!")
 print(df_long.head())
