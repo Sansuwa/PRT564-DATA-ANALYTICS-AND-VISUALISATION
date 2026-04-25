@@ -51,6 +51,6 @@ print("\nFinal shape:", df.shape)
 
 
 # STEP 9 — Save cleaned data
-df.to_csv("cleaned_data.csv", index=False)
+df.to_csv("table_1_1_cleaned.csv", index=False)
 
 print("\n✅ DONE — cleaned_data.csv saved!")
