@@ -43,5 +43,5 @@ Our analysis demonstrates that mortality data is highly non-linear, with **Rando
 
 ## Authors
 * [Sansuwa Shrestha]
-* [Name 2]
-* [Name 3]
+* [Utsav Thapa]
+* [Manisha Guatam]
