@@ -5,9 +5,9 @@
 This project performs an in-depth data analysis and predictive modeling of mortality patterns in Australia between 2015 and 2024. By integrating multiple heterogeneous datasets, our team developed a data pipeline to preprocess, analyze, and model death counts across various causes, genders, and age groups.
 
 ## Authors
-* [Sansuwa Shrestha]
-* [Utsav Thapa]
-* [Manisha Guatam]
+* Sansuwa Shrestha
+* Utsav Thapa
+* Manisha Guatam
   
 ## Key Objectives
 * **Data Pipeline Construction:** Build a robust pipeline to clean and integrate raw data from multiple sources.
